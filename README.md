@@ -1,4 +1,4 @@
-1.安装Python3，例如安装目录D:\python33
+1.安装Python3，例如安装目录D:\python33<br>
 2.分别安装APScheduler-2.1.1，beautifulsoup4-4.3.1，redis-py，requests，安装方法为命令行进入安装文件所在文件夹，执行setup.py文件
 例如：  
 cd .\APScheduler-2.1.1\
